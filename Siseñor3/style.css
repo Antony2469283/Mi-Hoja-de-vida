@@ -14,7 +14,7 @@ body {
     background-color: rgb(40, 60, 90);
     display: flex;
     align-items:center;
-    border-radius: 0.5rem;
+    border-radius: 0.5rem 0.5rem 0rem  0rem ;
     margin: 2rem;    
     color: white;
     /* justify-content: space-evenly; */
@@ -22,6 +22,7 @@ body {
 }
 .div_footer{
     /* width: 100%; */
+    
     display: flex;
     justify-content: center;
     /* margin-bottom: 2rem; */
@@ -29,25 +30,25 @@ body {
     padding: 2rem;
     /* display: flex;  */
     /* align-items:center;  */
-    border-radius: 0.5rem; 
+    border-radius: 0rem  0rem 0.5rem 0.5rem  ;
     /* margin: 5rem; */
     margin: 2rem;     
     background-color: rgb(40, 60, 90);
 }
 h3{
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 .header_a1{
     color: white;
     font-size: 2rem;
     font-weight: bold;
-    margin-left: 6rem;
+    margin-left: 10rem;
     text-decoration: none;
 }
 .h1{
     font-size: 2.5rem;
     margin-left: 5rem;
-    margin-right: 30rem;
+    margin-right: 25rem;
 }
 .img {
     margin: 1rem;
@@ -85,7 +86,7 @@ main{
     /* background-color:  rgb(170, 91, 54); */
 }
 .p_Div2{
-    margin-top: 7rem;
+    margin-top: 6rem;
 }
 .div_main2{
     display: flex;
@@ -98,22 +99,21 @@ main{
 }
 
 .img1{
-    margin-top: 2rem;
+    margin-top: 4rem;
     padding-bottom: 5rem;
-    max-width: 25rem;
+    max-width: 23rem;
     /* margin-right: 3rem; */
     margin-left: 1rem;
 }
-
 .img2{
     padding-bottom: 5rem;
-    max-width: 25rem;
+    max-width: 23rem;
     /* margin-right: 2rem; */
     margin-left: 1rem;
 }
 .img3{
     padding-bottom: 5rem;
-    max-width: 25rem;
+    max-width: 23rem;
     /* margin-right: 3rem; */
     margin-left: 1rem;
 }   
